@@ -1,3 +1,7 @@
+Backend is on Strapi and Git Link is this https://github.com/mjsvijit/SnipStash
+strapi deployad on render deployad link is this https://snipstash.onrender.com
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
